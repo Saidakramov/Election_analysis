@@ -2,29 +2,29 @@
 
 ## Overview of Election Audit 
 A Colorado Board of Elections employee provided us with the following tasks to complete election audit of recent local congressional election.
-1)How many votes were cast in this congressional election?
-2)Provide a breakdown of the number of votes and the percentage of total votes for each county.
-3)Which county had the largest number of votes?
-4)Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
-5)Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+1. How many votes were cast in this congressional election?
+2. Provide a breakdown of the number of votes and the percentage of total votes for each county.
+3. Which county had the largest number of votes?
+4. Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+5. Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
 ## Election-Audit Results
 The analysis of the elections shows that:
--1- That there were 369,711 votes cast in the election.
+- That there were 369,711 votes cast in the election.
 
--2- The county results were:
+- The county results were:
   - Jefferson county received 10.5% of the vote and earned 38,855 number of votes.
   - Denver county received 82.8% of the vote and 306,055 number of votes.
   - Arapahoe county received 6.7% of the vote and 24,801 number of votes.
  
--3- Largest county turnout was Denver county with 306,055 number of votes.
+- Largest county turnout was Denver county with 306,055 number of votes.
   
--4- The candidate results were :
+- The candidate results were :
   - Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
   - Diana DeGette received 73.8% of vote and 272,892 number of votes.
   - Raymon Anthony Doane received 3.1% and 11,606 number of votes.
 
--5- The winner of the election was :
+- The winner of the election was :
   - Diana DeGette received 73.8% of vote and 272,892 number of votes.
  
 ## Election-Audit Summary
